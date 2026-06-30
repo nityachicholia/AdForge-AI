@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AdForge AI</title>
+</head>
+<body>
+
+<h1>AdForge AI - Ad Generator</h1>
+
+<form method="POST">
+    <input type="text" name="product" placeholder="Enter Product" required>
+
+    <br><br>
+
+    <select name="platform">
+        <option>Google</option>
+        <option>Instagram</option>
+        <option>Facebook</option>
+    </select>
+
+    <br><br>
+
+    <select name="tone">
+        <option>Professional</option>
+        <option>Playful</option>
+        <option>Urgent</option>
+    </select>
+
+    <br><br>
+
+    <button type="submit">Generate</button>
+</form>
+
+<hr>
+
+{% if result %}
+<h2>Output:</h2>
+<p>{{ result }}</p>
+{% endif %}
+
+</body>
+</html>
