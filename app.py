@@ -1,6 +1,8 @@
 from flask import Flask, request, render_template_string
 import random
 
+print("NEW APP RUNNING")
+
 app = Flask(__name__)
 
 HTML = """
