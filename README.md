@@ -29,14 +29,14 @@ Team Details
 
 Team Leader:
 
-Varsha Kasotiya
+* Varsha Kasotiya
 
 Team Members:
 
-Nitya Chicholia
+* Nitya Chicholia
 
-Khusbu
+* Khusbu
 
-Nikita Yadav
+* Nikita Yadav
 
-Sunehri Sharma
+* Sunehri Sharma
