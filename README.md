@@ -24,5 +24,16 @@ Flask Backend (app.py)
 Groq API
         ↓
 Generated Advertisement Copy
-## Author
+
+Team Details
+
+Team Leader:
+
+Varsha Kasotiya
+
+Team Members:
+
 Nitya Chicholia
+Khusbu
+Nikita Yadav
+Sunehri Sharma
